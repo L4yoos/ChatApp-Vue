@@ -6,8 +6,7 @@ Aplikacja to prosty menedżer zadań napisany w Vue.js. Pozwala na dodawanie, ed
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/pgVikqA)
-![App Screenshot](https://i.imgur.com/dJo6MTJ.png)
+![App Screenshot](https://i.imgur.com/SsJUmt0.png)
 
 
 ## Authors
